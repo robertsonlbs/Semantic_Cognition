@@ -1,0 +1,14 @@
+atlocation
+capableof
+causes
+causesdesire
+hasa
+hasprerequisite
+hasproperty
+hassubevent
+isa
+madeof
+motivatedbygoal
+partof
+receivesaction
+usedfor

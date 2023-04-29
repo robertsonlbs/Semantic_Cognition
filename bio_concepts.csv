@@ -1,0 +1,599 @@
+relation,head,tail
+hasprerequisite,exercise,run
+hassubevent,exercise,lose weight
+isa,mammal,person
+atlocation,food,restur
+atlocation,food,cupboard
+hasproperty,nicotine,addict
+partof,liver,organ
+atlocation,urine,toilet
+capableof,cancer,kill
+atlocation,food,pantri
+causesdesire,food,eat
+isa,mammal,anim
+atlocation,food,restaur
+atlocation,blood,person
+hasproperty,food,good
+capableof,hair,fall
+isa,flu,viru
+hasproperty,blood,red
+capableof,animal,eat
+isa,food,fruit
+isa,animal,donkey
+usedfor,exercise,good health
+atlocation,alcohol,hotel
+atlocation,medicine,hospit
+hasproperty,food,jar
+isa,caffeine,stimul
+atlocation,skin,bodi
+hasproperty,alcohol,addict
+isa,mammal,wolf
+isa,animal,mole
+atlocation,blood,hospit
+isa,brain,organ
+isa,eye,organ
+atlocation,food,plate
+atlocation,hair,head
+hasproperty,cancer,bad
+isa,food,usual
+usedfor,exercise,fun
+atlocation,food,shelf
+usedfor,skin,protect bodi
+atlocation,blood,vein
+isa,animal,live
+isa,blood,bodili fluid
+partof,lung,bodi
+partof,blood,bodi
+partof,heart,organ
+atlocation,dna,cell
+hasproperty,vitamin c,good
+atlocation,alcohol,wineri
+atlocation,alcohol,groceri store
+atlocation,alcohol,hous
+isa,exercise,activ
+isa,food,often
+atlocation,bacteria,water
+isa,dna,complex molecul
+atlocation,food,contain
+motivatedbygoal,exercise,stay fit
+hasproperty,blood,liquid
+isa,hemoglobin,chemic
+causes,cancer,death
+isa,food,substanc
+hasproperty,skin,flexibl
+isa,foot,part leg
+hasproperty,cocaine,illeg
+madeof,food,carbon
+capableof,animal,drink
+partof,organ,bodi
+isa,animal,organ
+isa,bacteria,organ
+causesdesire,alcohol,danc
+isa,neuron,cell
+isa,schizophrenia,diseas
+atlocation,hair,arm
+hasproperty,food,edibl
+partof,memory,comput
+partof,pain,life
+hasproperty,hair,mammal
+hasproperty,radiation,bad
+atlocation,alcohol,cabinet
+hasproperty,schizophrenia,bad
+atlocation,food,wineri
+atlocation,alcohol,home
+atlocation,skin,fruit
+hasproperty,cocaine,addict
+capableof,animal,live long
+atlocation,disinfectant,hospit
+atlocation,food,fair
+atlocation,community,church
+isa,alcohol,liquid
+hasproperty,pain,bad
+isa,alcohol,fuel
+atlocation,food,hous
+atlocation,medicine,cabinet
+capableof,alcohol,burn
+hasproperty,food,unhealthi
+atlocation,food,school
+atlocation,bacteria,finger
+isa,bacteria,everywher
+isa,muscle,tissu
+isa,alcohol,depress
+isa,hemoglobin,complex molecul
+isa,potassium,element
+isa,bone,meat
+isa,muscle,meat
+atlocation,hair,finger
+capableof,alcohol,cloud mind
+hasproperty,depression,depress
+isa,cocaine,chemic
+atlocation,food,mouth
+isa,insulin,hormon
+hasproperty,alcohol,prohibit
+isa,cancer,ill
+atlocation,food,backpack
+causesdesire,alcohol,becom inebri
+atlocation,radiation,space
+hasproperty,high blood pressure,bad
+isa,alcohol,sed pain-kil
+isa,nicotine,stimul
+isa,liver,intern organ
+isa,urine,bodili fluid
+hasproperty,disease,ill
+causesdesire,depression,drink
+atlocation,tooth,citi
+atlocation,food,farm
+usedfor,energy,move
+atlocation,energy,food
+partof,nucleus,oxygen
+partof,food,life
+partof,bone,foot
+isa,mammal,mole
+partof,foot,skin
+partof,animal,wolf
+isa,flu,diseas
+atlocation,tissue,toilet
+isa,joint,fun
+madeof,food,meat
+madeof,skin,cell
+isa,nicotine,drug
+isa,cocaine,drug
+atlocation,blood,anim
+partof,tissue,organ
+usedfor,food,fight
+atlocation,hair,skin
+atlocation,bacteria,petri dish
+atlocation,bacteria,skin
+capableof,medicine,liquid
+hasproperty,food,essenti life
+receivesaction,skin,burn
+hasproperty,food,necessari life
+hasproperty,exercise,import health
+hasproperty,caffeine,addict
+isa,medicine,often
+usedfor,hair,fur
+atlocation,food,hotel
+atlocation,food,build
+atlocation,food,closet
+atlocation,food,citi
+atlocation,muscle,citi
+atlocation,muscle,restaur
+atlocation,muscle,hous
+hasproperty,depression,bad
+atlocation,vitamin c,store
+hasproperty,energy,use
+atlocation,vitamin c,cabinet
+atlocation,caffeine,restaur
+hasproperty,disease,danger
+atlocation,bone,beach
+atlocation,bone,restaur
+usedfor,bone,play
+atlocation,alcohol,beach
+atlocation,bone,store
+atlocation,alcohol,build
+atlocation,bone,restur
+atlocation,alcohol,state park
+atlocation,alcohol,refriger
+isa,alcohol,drink
+atlocation,bone,mall
+atlocation,bone,dinner
+usedfor,bone,eat
+atlocation,bone,boat
+atlocation,bone,home
+atlocation,alcohol,shelf
+atlocation,bone,citi
+atlocation,bone,church
+atlocation,bone,hous
+atlocation,bone,ground
+atlocation,bone,school
+atlocation,alcohol,hospit
+atlocation,bone,groceri store
+usedfor,bone,decor
+atlocation,alcohol,cupboard
+isa,bone,activ
+atlocation,alcohol,pantri
+hasproperty,alcohol,fun
+hasproperty,mammal,fun
+atlocation,mammal,zoo
+hasproperty,schizophrenia,pain
+atlocation,medicine,doctor
+atlocation,food,friend' wed
+causesdesire,high blood pressure,lose weight
+isa,morphine,sed pain-kil
+usedfor,hair,protect bodi
+receivesaction,protein,requir good health
+causesdesire,obesity,lose weight
+capableof,skin,vari colour
+hasproperty,morphine,addict
+capableof,hair,vari colour
+receivesaction,bacteria,kill
+receivesaction,hair,burn
+capableof,skin,bleed cut
+usedfor,medicine,treat ill
+isa,iodine,element
+capableof,medicine,fight diseas
+hasproperty,urine,good
+atlocation,hair,food
+causes,high blood pressure,heart attack
+hasproperty,energy,necessari life
+atlocation,blood,war
+atlocation,food,fairground
+hasa,blood,water
+atlocation,food,boat
+atlocation,bacteria,mouth
+atlocation,bacteria,ground
+atlocation,pain,dentist
+atlocation,hair,rug
+atlocation,pain,war
+atlocation,alcohol,friend' wed
+hasproperty,hair,natur
+isa,alcohol,sometim
+causesdesire,pain,becom inebri
+hasprerequisite,exercise,move
+isa,hair,face
+atlocation,food,home
+hasproperty,urine,water
+hasprerequisite,exercise,jog
+hasprerequisite,exercise,lift weight
+isa,food,sometim
+atlocation,skin,human
+atlocation,food,drain
+capableof,exercise,work
+atlocation,skin,good health
+atlocation,blood,drain
+hasprerequisite,exercise,danc
+causesdesire,energy,work
+atlocation,food,jail
+atlocation,doctor,dentist
+atlocation,food,cabinet
+atlocation,medicine,refriger
+atlocation,food,wast bin
+atlocation,exercise,gym
+atlocation,bacteria,forest
+causesdesire,depression,die
+atlocation,disease,rug
+partof,hair,human
+hasproperty,bacteria,microscop
+isa,potassium,miner
+capableof,medicine,lower cholesterol
+receivesaction,blood,read
+hasproperty,exercise,good
+atlocation,iodine,backpack
+capableof,skin,feel pain
+atlocation,morphine,medicin chest
+atlocation,food,park
+usedfor,skin,sens pain
+atlocation,insulin,medicin chest
+atlocation,iodine,medicin chest
+atlocation,food,zoo
+capableof,exercise,lower cholesterol
+atlocation,medicine,jar
+isa,food,fuel
+partof,tissue,skin
+isa,food,sex
+capableof,food,cost lot
+hasproperty,bacteria,small
+causesdesire,depression,becom inebri
+atlocation,food,bed
+isa,obesity,usual
+atlocation,food,mall
+motivatedbygoal,diet,lose weight
+atlocation,bacteria,plate
+atlocation,food,concert
+atlocation,food,refriger
+hasa,bone,calcium
+isa,heart,muscl
+atlocation,skeleton,closet
+atlocation,eye,face
+capableof,bone,break
+capableof,animal,move
+partof,surgeon,doctor
+atlocation,animal,park
+hasa,mammal,fur
+capableof,animal,feel pain
+usedfor,foot,walk
+partof,nucleus,cell
+atlocation,molecule,hand
+partof,pupil,eye
+atlocation,muscle,arm
+partof,brain,bodi
+capableof,drug,cloud mind
+atlocation,foot,tabl
+usedfor,nerve,sens pain
+isa,heart,love
+partof,cell,bodi
+partof,heart,human bodi
+atlocation,liver,human bodi
+partof,brain,human bodi
+usedfor,tooth,bite
+partof,neuron,brain
+partof,brain,person
+atlocation,bone,museum
+atlocation,heart,bodi
+usedfor,doctor,heal
+isa,drug,chemic
+atlocation,cell,jail
+atlocation,eye,person head
+atlocation,tooth,mouth
+atlocation,doctor,hospit
+causes,heart attack,die
+usedfor,drug,treat ill
+usedfor,muscle,walk
+atlocation,heart,person
+atlocation,skeleton,museum
+usedfor,foot,run
+atlocation,organ,human bodi
+usedfor,tooth,grind
+atlocation,disease,hospit
+isa,drug,substanc
+atlocation,skin,finger
+usedfor,foot,measur
+usedfor,muscle,move
+hasproperty,heart,red
+atlocation,kidney,human bodi
+atlocation,heart,anim
+atlocation,pain,bodi part
+atlocation,drug,drugstor
+atlocation,muscle,anim
+atlocation,lung,human bodi
+atlocation,molecule,atom
+partof,knee,leg
+atlocation,membrane,anim
+partof,foot,bodi
+atlocation,bone,arm
+isa,animal,often
+usedfor,animal,fur
+atlocation,nerve,brain
+isa,muscle,human bodi
+isa,brain,part human bodi
+atlocation,bone,human bodi
+hasa,animal,bodi
+atlocation,bone,anim
+atlocation,nerve,anim
+isa,lung,intern organ
+partof,foot,human bodi
+hasproperty,drug,good
+capableof,disease,kill
+usedfor,heart,feel emot
+atlocation,membrane,cell
+atlocation,drug,bottl
+atlocation,molecule,miner
+partof,muscle,bodi
+isa,brain,biolog organ
+atlocation,liver,person
+usedfor,tooth,eat
+atlocation,food,dinner
+atlocation,animal,forest
+atlocation,pupil,school
+atlocation,nerve,bodi
+atlocation,virus,comput
+causes,virus,diseas
+atlocation,bone,person
+atlocation,virus,bodi
+capableof,doctor,good
+capableof,animal,sex
+atlocation,mammal,meadow
+atlocation,mammal,forest
+causes,exercise,heart attack
+capableof,virus,mutat
+capableof,animal,bite
+hasa,animal,eye
+hasproperty,drug,bad
+isa,organ,bodi part
+atlocation,nerve,human bodi
+receivesaction,drug,prohibit
+usedfor,doctor,maintain health
+atlocation,disease,human bodi
+usedfor,muscle,lift weight
+atlocation,laser,laboratori
+capableof,eye,tear
+causes,exercise,pain
+atlocation,heart,mammal
+atlocation,knee,tabl
+usedfor,muscle,eat
+atlocation,population,citi
+atlocation,community,citi
+atlocation,eye,mammal
+isa,liver,organ bodi
+isa,kidney,organ bodi
+hasa,carbohydrate,carbon
+partof,bone,skeleton
+isa,steroid,hormon
+hasa,animal,muscl
+usedfor,animal,food
+atlocation,drug,school
+atlocation,drug,concert
+atlocation,bone,dog mouth
+capableof,animal,zoo
+usedfor,psychiatrist,depress
+isa,animal,life
+capableof,community,break
+partof,joint,skeleton
+isa,eye,biolog organ
+capableof,drug,cure ill
+atlocation,nucleus,atom
+partof,organ,organ
+partof,psychiatrist,doctor
+partof,stomach,human bodi
+atlocation,bone,hand
+partof,tooth,bodi
+madeof,memory,experi
+madeof,tooth,calcium
+atlocation,vitamin,medicin cabinet
+atlocation,medicine,medicin cabinet
+motivatedbygoal,exercise,live
+causes,exercise,get healthi
+partof,skin,foot
+partof,stomach,organ
+partof,hair,dog
+isa,drug,fun
+partof,joint,finger
+atlocation,alcohol,bottl
+capableof,eye,differ color
+isa,virus,organ
+atlocation,animal,farm
+partof,molecule,donkey
+partof,cell,live
+partof,neuron,nervou system
+partof,gene,chromosom
+usedfor,vitamin,get healthi
+partof,cell,tissu
+usedfor,heart,break
+capableof,mammal,play
+atlocation,hair,person head
+usedfor,medicine,cure ill
+atlocation,drug,vein
+atlocation,organ,person
+partof,animal,natur
+partof,liver,bodi
+partof,kidney,bodi
+usedfor,doctor,ill
+partof,stomach,human abdomin organ
+partof,liver,human abdomin organ
+isa,bone,dog
+isa,vitamin,fruit
+hasa,animal,differ color
+hasproperty,animal,danger
+capableof,doctor,life
+capableof,doctor,use
+isa,food,differ color
+receivesaction,headache,caus stress
+usedfor,foot,move
+capableof,animal,good
+usedfor,kidney,drink
+atlocation,kidney,cabinet
+atlocation,bone,grind
+capableof,animal,love
+atlocation,population,petri dish
+hasproperty,protein,essenti life
+capableof,virus,make person sick
+atlocation,animal,state park
+atlocation,food,friend wed
+hasproperty,laser,danger
+hassubevent,exercise,breath
+atlocation,animal,meadow
+isa,eye,someth
+capableof,animal,mammal
+atlocation,nerve,organ
+isa,animal,human
+receivesaction,vitamin,requir good health
+atlocation,diaphragm,drugstor
+usedfor,laser,measur
+atlocation,skin,person
+receivesaction,surgeon,find hospit
+receivesaction,medicine,find hospit
+receivesaction,drug,find hospit
+hasproperty,element,natur
+isa,kidney,filter
+capableof,gene,mutat
+receivesaction,doctor,kill
+isa,liver,filter
+isa,heart,contain
+capableof,doctor,battl diseas
+capableof,tooth,pain person
+isa,diet,eat
+capableof,antibiotic,fight diseas
+capableof,animal,feel emot
+atlocation,tooth,plate
+receivesaction,cell,surround membran
+hasa,doctor,studi
+usedfor,drug,heal
+hasa,animal,pain
+hasa,food,food
+usedfor,foot,danc
+receivesaction,neuron,surround membran
+isa,nerve,cell
+capableof,bacteria,make person sick
+motivatedbygoal,exercise,live long
+isa,pupil,human
+capableof,medicine,low blood pressur
+atlocation,memory,pantri
+atlocation,bacteria,grind
+atlocation,diaphragm,human
+hasproperty,animal,edibl
+atlocation,molecule,substanc
+atlocation,alcohol,friend wed
+atlocation,hair,ear
+atlocation,tooth,jaw
+isa,knee,part leg
+isa,stomach,part human bodi
+hasa,animal,head
+atlocation,nerve,human
+isa,disease,someth
+capableof,laser,kill person
+usedfor,eye,read
+hasproperty,medicine,danger
+usedfor,population,studi
+capableof,animal,fight
+hasproperty,molecule,small
+atlocation,tooth,dentist
+atlocation,doctor,doctor
+atlocation,pain,muscl
+atlocation,animal,fairground
+atlocation,animal,fair
+isa,brain,ear
+atlocation,laser,hospit
+atlocation,drug,cupboard
+atlocation,muscle,gym
+atlocation,hair,bed
+hassubevent,exercise,fall
+atlocation,tissue,wast bin
+usedfor,laser,fun
+atlocation,element,univers
+usedfor,organ,play
+atlocation,muscle,jaw
+atlocation,tooth,dog mouth
+atlocation,drug,univers
+hasproperty,pain,pain
+hasa,animal,meat
+capableof,animal,kill person
+atlocation,molecule,air
+atlocation,nerve,arm
+capableof,animal,everywher
+atlocation,molecule,person
+isa,memory,often
+atlocation,organ,mammal
+hasprerequisite,exercise,muscl
+atlocation,organ,anim
+causesdesire,heart attack,stay fit
+hasproperty,cell,microscop
+hasa,muscle,calcium
+hasa,carbohydrate,oxygen
+capableof,medicine,low cholesterol
+usedfor,foot,jog
+atlocation,drug,medicin cabinet
+causesdesire,heart attack,maintain good health
+isa,surgeon,person
+hasproperty,drug,illeg
+usedfor,exercise,maintain good health
+atlocation,vitamin,medicin chest
+atlocation,animal,laboratori
+hasproperty,food,import health
+usedfor,tooth,tear
+usedfor,tooth,kill
+atlocation,tissue,suitcas
+usedfor,hair,decor
+atlocation,vitamin,suitcas
+atlocation,antibiotic,cabinet
+atlocation,steroid,medicin chest
+atlocation,disinfectant,medicin chest
+capableof,exercise,low cholesterol
+capableof,animal,bleed cut
+capableof,antibiotic,battl diseas
+atlocation,heart,human
+usedfor,diaphragm,breath
+hasproperty,drug,use
+partof,nerve,nervou system
+usedfor,disease,make person sick
+usedfor,exercise,low blood pressur
+capableof,doctor,cost lot
+capableof,headache,pain person
+atlocation,pain,bodi
+hassubevent,exercise,eat
+atlocation,drug,doctor
+hasa,mammal,leg
+atlocation,foot,grind
+atlocation,muscle,leg
+hasa,mammal,breast
+usedfor,exercise,maintain health
+partof,dna,chromosom
